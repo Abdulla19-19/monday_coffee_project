@@ -18,7 +18,3 @@ customer segmentation, and market analysis.
 • Provide recommendations based on the analysis for targeting high-potential
 cities.
 
-## Table Description  
-
-```The dataset consists of four tables: city, products, customers, and sales.
-These tables capture information about city demographics, coffee products, customer details, and sales transactions, respectively. Below is a detailed description of each table and its columns.
