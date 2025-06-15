@@ -1,7 +1,8 @@
 # monday_coffee_project
 ![Company Logo](https://github.com/najirh/Monday-Coffee-Expansion-Project-P8/blob/main/1.png)
 # Introduction
-```This SQL project analyzes a coffee sales dataset for a company named ”Monday
+```
+This SQL project analyzes a coffee sales dataset for a company named ”Monday
 Coffee” to derive insights about customer behavior, product performance, and
 market potential across various cities. The dataset includes information about
 cities, products, customers, and sales transactions. The project encompasses
