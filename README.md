@@ -16,4 +16,4 @@ The objectives are to:
 • Answer business questions through SQL queries, covering sales performance,
 customer segmentation, and market analysis.
 • Provide recommendations based on the analysis for targeting high-potential
-cities.```
+cities.
